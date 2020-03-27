@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Hello Collin!
+title: Welcome to my blog.
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
