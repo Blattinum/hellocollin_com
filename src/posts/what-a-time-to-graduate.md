@@ -5,23 +5,5 @@ tags:
   - college
   - goals
 ---
-A simple post to demonstrate how a normal blog post looks on Hylia. Content is all set in the “Body” field as markdown and 11ty transforms it into a proper HTML post. You can also edit the markdown file directly if you prefer not to use the CMS.
 
-How about a `<blockquote>`?
-
-> Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.
-
-A list of stuff:
-
-- Sed posuere consectetur est at lobortis
-- Aenean lacinia bibendum nulla sed consectetur
-- Sed posuere consectetur est at lobortis
-
-How about an ordered list of stuff:
-
-1. Sed posuere consectetur est at lobortis
-2. Aenean lacinia bibendum nulla sed consectetur
-3. Sed posuere consectetur est at lobortis
-
-
-Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
+Graduating during a pandemic is definitely unusual. Now, I didn't really want to walk in my graduation so I'm not really upset. Also, I didn't really want to have one of my classes as in-person so all around (in terms of my education) this has been okay-ish.
