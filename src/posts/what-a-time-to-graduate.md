@@ -10,4 +10,4 @@ Graduating during a pandemic is definitely unusual. Now, I didn't really want to
 
 ---
 
-Also, today is my birthday. :cake:
+Also, today is my birthday. 🍰
