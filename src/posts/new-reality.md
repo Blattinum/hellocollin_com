@@ -15,4 +15,4 @@ tags:
 
 - Do some coding
 
-- Redo my homepage ([cobl.co](http://cobl.co))
+- Redo my homepage (<a href="http://cobl.co" target="_blank">cobl.co</a>)
