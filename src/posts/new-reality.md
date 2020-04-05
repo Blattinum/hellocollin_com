@@ -1,5 +1,5 @@
 ---
-title: New Reality, new hobbies.
+title: New reality, new hobbies.
 date: '2020-04-05'
 tags:
   - pandemic
