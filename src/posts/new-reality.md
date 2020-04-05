@@ -11,4 +11,8 @@ tags:
 
 - Cooking with my Dutch oven
 
-- 
+- Fermentation projects
+
+- Do some coding
+
+- Redo my homepage ([cobl.co](http://cobl.co))
