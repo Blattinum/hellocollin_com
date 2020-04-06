@@ -15,4 +15,6 @@ tags:
 
 - Do some coding
 
+- Duolingo (French)
+
 - Redo my homepage (<a href="http://cobl.co" target="_blank">cobl.co</a>)
