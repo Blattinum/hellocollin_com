@@ -1,6 +1,6 @@
 ---
 title: Part-time IT work in a pandemic.
-date: '2020-04-12'
+date: '2020-04-22'
 tags:
   - IT
   - goals
