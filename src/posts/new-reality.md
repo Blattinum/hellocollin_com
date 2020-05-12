@@ -7,27 +7,27 @@ tags:
   - hobbies
 ---
 
-- [X] Sourdough&hellip;
+- [x] Sourdough&hellip;
     > I've made several sourdough loafs and waffles.
 
-- [X] Cooking with my Dutch oven
+- [x] Cooking with my Dutch oven
     > I've made bread, stew, several casserole-type dishes.
 
-- [] Fermentation projects
+- [ ] Fermentation projects
 
-- [X] Do some coding
+- [x] Do some coding
     > I'm making this site so I think that counts.
 
-- [X] Duolingo (French) &mdash; *in progress*
+- [x] Duolingo (French) &mdash; *in progress*
 
-- [] Redo my homepage (<a href="http://cobl.co" target="_blank">cobl.co</a>)
+- [ ] Redo my homepage (<a href="http://cobl.co" target="_blank">cobl.co</a>)
 
-- [] Finish a Udemy course
+- [ ] Finish a Udemy course
 
-- [] Make bagels [optional: using sourdough]
+- [ ] Make bagels [optional: using sourdough]
 
-- [] Make fried rice
+- [ ] Make fried rice
 
-- [] Get my bike
+- [ ] Get my bike
 
-- [] Write a handwritten letter with a fountain pen
+- [ ] Write a handwritten letter with a fountain pen
