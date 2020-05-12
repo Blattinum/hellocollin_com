@@ -10,7 +10,7 @@ Get started now by **[deploying Hylia to Netlify.][deploy-to-netlify]**
 
 ## Features
 
-Hylia version 0.5.1 features:
+Hylia version 0.7.0 features:
 
 ✍️ A pre-configured [Netlify CMS](https://www.netlifycms.org/) setup  
 🎨 Customisable design tokens to make it your own  
@@ -20,7 +20,8 @@ Hylia version 0.5.1 features:
 🎈 _Super_ lightweight front-end  
 🚰 Sass powered CSS system with utility class generator  
 ⚙️ Service worker that caches pages so people can read your articles offline  
-🚀 An RSS feed for your posts
+🚀 An RSS feed for your posts  
+💌 A basic contact form, ready for [Netlify Forms](https://docs.netlify.com/forms/setup/#html-forms)
 
 ## Roadmap
 
