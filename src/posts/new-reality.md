@@ -1,20 +1,30 @@
 ---
-title: New reality, new hobbies.
-date: '2020-04-05'
+title: My Peripandemic Hobby List [UPDATE]
+date: '2020-05-11'
 tags:
   - pandemic
   - goals
   - hobbies
 ---
 
-- Sourdough
+[X] Sourdough
+  > I've made several sourdough loafs and waffles.
+[X] Cooking with my Dutch oven
+  > I've made bread, stew, several casserole-type dishes.
+[] Fermentation projects
 
-- Cooking with my Dutch oven
+[X] Do some coding
+  > I'm making this site so I think that counts.
+[X] Duolingo (French) &mdash; *in progress*
 
-- Fermentation projects
+[] Redo my homepage (<a href="http://cobl.co" target="_blank">cobl.co</a>)
 
-- Do some coding
+[] Finish a Udemy course
 
-- Duolingo (French)
+[] Make bagels [optional: using sourdough]
 
-- Redo my homepage (<a href="http://cobl.co" target="_blank">cobl.co</a>)
+[] Make fried rice
+
+[] Get my bike
+
+[] Write a handwritten letter with a fountain pen
