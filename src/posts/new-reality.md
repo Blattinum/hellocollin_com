@@ -22,8 +22,3 @@ tags:
 - [ ] Get my bike
 - [ ] Write a handwritten letter with a fountain pen
 
----
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
