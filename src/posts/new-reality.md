@@ -7,14 +7,17 @@ tags:
   - hobbies
 ---
 
-- [X] Sourdough
+- [X] Sourdough&hellip;
   > I've made several sourdough loafs and waffles.
+
 - [X] Cooking with my Dutch oven
   > I've made bread, stew, several casserole-type dishes.
+
 - [] Fermentation projects
 
 - [X] Do some coding
   > I'm making this site so I think that counts.
+
 - [X] Duolingo (French) &mdash; *in progress*
 
 - [] Redo my homepage (<a href="http://cobl.co" target="_blank">cobl.co</a>)
