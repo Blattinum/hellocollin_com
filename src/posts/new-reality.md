@@ -8,15 +8,15 @@ tags:
 ---
 
 - [X] Sourdough&hellip;
-  > I've made several sourdough loafs and waffles.
+    > I've made several sourdough loafs and waffles.
 
 - [X] Cooking with my Dutch oven
-  > I've made bread, stew, several casserole-type dishes.
+    > I've made bread, stew, several casserole-type dishes.
 
 - [] Fermentation projects
 
 - [X] Do some coding
-  > I'm making this site so I think that counts.
+    > I'm making this site so I think that counts.
 
 - [X] Duolingo (French) &mdash; *in progress*
 
