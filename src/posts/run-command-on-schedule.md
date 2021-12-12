@@ -8,7 +8,8 @@ tags:
 ---
 
 > Install speedtest-cli prior to creating the following bash (.sh) script.
-><details>
+
+<details>
   <summary>speedtest-cli not working?</summary>
   <p>
   		<a href="https://askubuntu.com/questions/1332969/problem-with-speedtest-cli" target="_blank">https://askubuntu.com/questions/1332969/problem-with-speedtest-cli</a>
