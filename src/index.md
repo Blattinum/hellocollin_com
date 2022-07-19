@@ -7,9 +7,4 @@ metaDesc: 'My personal blog.'
 socialImage: ''
 ---
 
-This is my blog.
-
-Yep, it is..
-
----
-MelK&#934;
+💻
