@@ -1,5 +1,5 @@
 ---
-title: Interesting links
+title: Unstinkify kitchen sink drain
 date: '2022-07-20'
 tags:
   - blog
