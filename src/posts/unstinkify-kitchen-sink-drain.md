@@ -1,5 +1,5 @@
 ---
-title: Unstinkify kitchen sink drain
+title: 🧼 Unstinkify kitchen sink drain
 date: '2022-07-20'
 tags:
   - blog
