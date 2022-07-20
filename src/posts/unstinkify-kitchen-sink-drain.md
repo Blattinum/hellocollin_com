@@ -17,4 +17,4 @@ Make a homemade drain cleaner by following these steps:
 
 If an odor persists, it’s possible that your drain is clogged. Difficult clogs continue releasing odors until they’re completely removed from the drain plumbing. With caution, try pouring the vinegar directly into your drain. But beware: The acidity of vinegar could damage certain sink surfaces.
 
-- [>> Read straight from the source <<](https://web.archive.org/web/20220720144553/https://moreventservices.com/how-to-make-homemade-drain-cleaner-to-fix-a-stinky-drain/)
+[>> Read straight from the source <<](https://web.archive.org/web/20220720144553/https://moreventservices.com/how-to-make-homemade-drain-cleaner-to-fix-a-stinky-drain/)
